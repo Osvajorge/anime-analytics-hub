@@ -108,8 +108,8 @@ Predictive model for anime ratings
 Genre recommendation system
 Time series analysis of anime trends
 
-👤 Author
-GitHub: @osvajorge
+## 👤 Author
 
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.# anime-analytics-hub
+- Your Name
+- GitHub: [@osvaajorge](https://github.com/osvajorge)
+
