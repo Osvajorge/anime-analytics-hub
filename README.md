@@ -7,7 +7,6 @@ A comprehensive data analysis project exploring trends, ratings, and patterns in
 This project analyzes various aspects of anime including viewer ratings, production trends, studio performance, and genre popularity to uncover insights about what makes anime successful.
 
 ## 📊 Dataset Information
-
 - **Source**: New_Anime_list.csv
 - **Size**: 2,500 anime titles
 - **Features**: 
@@ -87,7 +86,5 @@ Genre recommendation system
 Time series analysis of anime trends
 
 ## 👤 Author
-
-- Your Name
-- GitHub: [@osvaajorge](https://github.com/osvajorge)
+[@osvaajorge](https://github.com/osvajorge)
 
