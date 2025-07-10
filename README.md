@@ -7,26 +7,21 @@ A comprehensive data analysis project exploring trends, ratings, and patterns in
 This project analyzes various aspects of anime including viewer ratings, production trends, studio performance, and genre popularity to uncover insights about what makes anime successful.
 
 ## 🗂️ Project Structure
-
 anime-analytics-hub/
-│
 ├── data/
-│   ├── raw/
-│   │   └── New_Anime_list.csv          # Original dataset
+│   ├── raw/New_Anime_list.csv
 │   └── processed/
-│       ├── anime_clean.csv             # Cleaned dataset
-│       ├── anime_movies.csv            # Movies subset
-│       └── anime_series.csv            # Series subset
-│
+│       ├── anime_clean.csv
+│       ├── anime_movies.csv
+│       └── anime_series.csv
 ├── notebooks/
-│   ├── 01_data_exploration.ipynb      # Initial data exploration
-│   ├── 02_data_cleaning.ipynb         # Data cleaning process
-│   └── 03_eda.ipynb                   # Exploratory data analysis (WIP)
-│
-├── src/                                # Python scripts (future)
-├── reports/                            # Analysis reports (future)
-├── requirements.txt                    # Project dependencies
-└── README.md                           # Project documentation
+│   ├── 01_data_exploration.ipynb
+│   ├── 02_data_cleaning.ipynb
+│   └── 03_eda.ipynb
+├── src/
+├── reports/
+├── requirements.txt
+└── README.md                         # Project documentation
 
 ## 📊 Dataset Information
 
